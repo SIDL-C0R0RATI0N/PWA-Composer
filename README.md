@@ -24,13 +24,13 @@
 
 | ETATS DE PUBLICATION | PUBLIÉ LE | MISE À JOUR LE | VERSION | CHANGELOG | CERTIFICATION |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 🟢 DISPONIBLE | 28/06/2023 | 29/09/2023 | 2.29090.2023.0 | <a href="https://github.com/SIDL-C0R0RATI0N/PWA-Composer/blob/main/CHANGELOG.md#version-22909020230--29-septembre-2023" target="_blank">EN SAVOIR PLUS</a> | <a href="https://github.com/SIDL-C0R0RATI0N/PWA-Composer/blob/main/RAPPORT/RAPPORT_V0.0000.000.0.pdf" target="_blank">RÉSULTATS DE CERTIFICATION</a> |
+| 🟢 DISPONIBLE | 28/06/2023 | 01/10/2023 | 2.15101.2023 | <a href="https://github.com/SIDL-C0R0RATI0N/PWA-Composer/blob/main/CHANGELOG.md#version-2151012023--1-novembre-2023" target="_blank">EN SAVOIR PLUS</a> | <!--<a href="https://github.com/SIDL-C0R0RATI0N/PWA-Composer/blob/main/RAPPORT/RAPPORT_V0.0000.000.0.pdf" target="_blank">RÉSULTATS DE CERTIFICATION</a>--> NaN |
 
 ## PROCHAINE VERSION :
 
 | STATUS DE DÉVELOPPEMENT | VERSION | DATE DE MISE À JOUR | COMPATIBILITÉ (OS) |
 | :-: | :-: | :-: | :-: |
-| 🟠 EN COURS | 2.xxxxx.20xxx.x | xx/xx/20xx | <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows" alt="Platform" /> |
+| 🟠 EN COURS | 2.15110.2023.0 | 15/11/2023 | <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows" alt="Platform" /> |
 
 ## CONFIGURATION REQUISE :
 
@@ -54,9 +54,9 @@
 |:-:|:-:|
 | Publié par | <a target="_blank" href="https://apps.microsoft.com/store/search?publisher=SIDL%20CORPORATION">SIDL CORPORATION</a> |
 | Date de sortie | 28/06/2023 |
-| Mise à jour | 29/09/2023 |
+| Mise à jour | 01/10/2023 |
 | Langues prises en charge | Anglais, Français |
-| Version | 2.29090.2023.0 |
+| Version | 2.15100.2023.0 |
 
 ## DESCRIPTION :
 
