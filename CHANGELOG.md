@@ -1,5 +1,28 @@
 # Journale des dernières mises à jour de l'application
 
+## Version [2.15101.2023] | 1 Novembre 2023
+### Mise à jour cumulative.
+
+### LES NOUVEAUTÉS :</h5>
+- Ajouts d'une nouvelle fonctionnalité (Analyse de site internet),
+- Ajouts d'un bouton de téléchargement du rapport d'analyse,
+- Ajouts de nouvelles capacité d'application,
+- Ajouts de la capacité "Bas niveau" de l'application,
+
+### LES MISES À JOURS :
+- Mise à jour de l'interface utilisateur (optimiser pour Windows 11),
+- Mise à jour de la notification de lancement (Traduction),
+- Mise à jour de sécurité de l'application,
+- Mise à jour du menu latérale gauche,
+
+### LES CORRECTIONS :
+- Aucune
+
+### LES SUPPRESSIONS :
+- Suppression de l'image de fond du menu latérale gauche.
+
+***
+
 ## Version [2.29090.2023.0] | 29 Septembre 2023
 ### Mise à jour majeur.
 
