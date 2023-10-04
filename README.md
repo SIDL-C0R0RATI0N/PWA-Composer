@@ -36,7 +36,7 @@
 
 |            | Minimum | Recommandé |
 | ---------- | ------- | ---------- |
-| Plateforme | PC | PC |
+| Plateforme | PC, Console Xbox, Surface Hub, HoloLens | PC, Console Xbox, Surface Hub, HoloLens |
 | OS | Windows 10, Windows 11 | Windows 10, Windows 11 |
 | Architecture | X86, X64 | X86, X64 |
 | Clavier intégrée | NaN/NaN | NaN/NaN |
