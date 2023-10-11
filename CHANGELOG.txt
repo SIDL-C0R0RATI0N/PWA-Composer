@@ -1,16 +1,15 @@
-Mise à jour vers la version 2.29090.2023
+Mise à jour vers la version 2.15110.2023
 LES NOUVEAUTÉS :
-Aucune.
+· Ajouts de la transparence des fenêtres Windows 11.
 LES MISES À JOURS :
-· Mise à jour du formulaire de contact,
-· Mise à jour du formulaire de génération du manifest,
-· Mise à jour de sécurité de l'application.
+· Mise à jour de l'interface de l'application optimisé pour Windows 11,
+· Mise à jour des fonctionnalités de l'application,
+· Mise à jour de le licence de l'application,
+· Mise à jour du serveur de recherche des mises à jours,
+· Mise à jour du serveur d'email pour la prise de contact.
 LES CORRECTIONS :
-· Correction apporter lors de la génération du manifest, dont les champs seront supprimer,
-· Correction apporter lors de l'envoi du formulaire de contact, les champs sont supprimer après l'envoi,
-· Correction apporter lors de la vérification des mises à jours,
-· Correction apporter sur la sécurité de l'application,
-· Correction apporter sur 3 bugs détecter lors des testes de l'application,
-· Correction apporter sur la compatibilité de l'application sur les systèmes Windows 10 / Windows 11.
+· Correction de plus de 5 problèmes, 
+· Correction d'un problème lié au formulaire de contact,
+· Correction d'un problème lié à la page d'analyse de l'application.
 LES SUPPRESSIONS :
-· Suppression d'un problème lié aux formulaire pouvant améner à injecter du code malveillant.
+· Aucune.
