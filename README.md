@@ -1,7 +1,7 @@
 ﻿## PWA Composer
 
 <p align="center">
-  <img width="128" align="center" src="https://store-images.s-microsoft.com/image/apps.31943.14266134008124856.4ee1c0db-4115-47ba-8cf9-689949c428e6.c48e6206-0397-46bb-a8fa-846c8cc14216?w=120">
+  <img width="128" align="center" src="https://github.com/SIDL-C0R0RATI0N/PWA-Composer/blob/main/.github/Sources/Logo.png">
 </p>
 <h1 align="center">
   PWA Composer
