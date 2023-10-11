@@ -30,7 +30,10 @@
 
 | STATUS DE DÉVELOPPEMENT | VERSION | DATE DE MISE À JOUR | COMPATIBILITÉ (OS) |
 | :-: | :-: | :-: | :-: |
-| 🟠 EN ATTENTE DE PUBLICATION | 2.15110.2023.0 | 15/11/2023 | <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows" alt="Platform" /> |
+| 🟡 EN ATTENTE DE PUBLICATION | 2.15110.2023.0 | 15/11/2023 | <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows" alt="Platform" /> |
+| 🟠 EN ATTENTE | 2.15120.2023.0 | 15/12/2023 | <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows" alt="Platform" /> |
+
+> 🟢 = DISPONIBLE | 🟡 = EN ATTENTE DE PUBLICATION | 🟠 = EN ATTENTE DE DEVELOPPEMENT | 🔴 = INDISPONIBLE | 🟤 = NON VALIDER | 🔵 = EN COURS DE DEVELOPPEMENT | ⚪ = OBSOLETE
 
 ## CONFIGURATION REQUISE :
 
