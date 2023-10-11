@@ -1,6 +1,29 @@
 # Journale des dernières mises à jour de l'application
 
-## Version [2.15101.2023] | 1 Novembre 2023
+## Version [2.15111.2023] | 15 Novembre 2023
+### Mise à jour majeur.
+
+### LES NOUVEAUTÉS :</h5>
+- Ajouts de la transparence des fenêtres Windows 11.
+
+### LES MISES À JOURS :
+- Mise à jour de l'interface de l'application optimisé pour Windows 11,
+- Mise à jour des fonctionnalités de l'application,
+- Mise à jour de le licence de l'application,
+- Mise à jour du serveur de recherche des mises à jours,
+- Mise à jour du serveur d'email pour la prise de contact.
+
+### LES CORRECTIONS :
+- Correction de plus de 5 problèmes, 
+- Correction d'un problème lié au formulaire de contact,
+- Correction d'un problème lié à la page d'analyse de l'application.
+
+### LES SUPPRESSIONS :
+- Aucune.
+
+***
+
+## Version [2.15101.2023] | 1 Septembre 2023
 ### Mise à jour cumulative.
 
 ### LES NOUVEAUTÉS :</h5>
