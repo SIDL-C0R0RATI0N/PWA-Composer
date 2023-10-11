@@ -24,7 +24,7 @@
 
 | ETATS DE PUBLICATION | PUBLIÉ LE | MISE À JOUR LE | VERSION | CHANGELOG | CERTIFICATION |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 🟢 DISPONIBLE | 28/06/2023 | 01/10/2023 | 2.15101.2023 | <a href="https://github.com/SIDL-C0R0RATI0N/PWA-Composer/blob/main/CHANGELOG.md#version-2151012023--1-novembre-2023" target="_blank">EN SAVOIR PLUS</a> | <!--<a href="https://github.com/SIDL-C0R0RATI0N/PWA-Composer/blob/main/RAPPORT/RAPPORT_V0.0000.000.0.pdf" target="_blank">RÉSULTATS DE CERTIFICATION</a>--> NaN |
+| 🟢 DISPONIBLE | 28/06/2023 | 01/10/2023 | 2.15101.2023 | <a href="https://github.com/SIDL-C0R0RATI0N/PWA-Composer/blob/main/CHANGELOG.md#version-2151012023--1-septembre-2023" target="_self">EN SAVOIR PLUS</a> | <!--<a href="https://github.com/SIDL-C0R0RATI0N/PWA-Composer/blob/main/RAPPORT/RAPPORT_V0.0000.000.0.pdf" target="_blank">RÉSULTATS DE CERTIFICATION</a>--> NaN |
 
 ## PROCHAINE VERSION :
 
