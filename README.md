@@ -30,7 +30,7 @@
 
 | STATUS DE DÉVELOPPEMENT | VERSION | DATE DE MISE À JOUR | COMPATIBILITÉ (OS) |
 | :-: | :-: | :-: | :-: |
-| 🟠 EN COURS | 2.15110.2023.0 | 15/11/2023 | <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows" alt="Platform" /> |
+| 🟠 EN ATTENTE DE PUBLICATION | 2.15110.2023.0 | 15/11/2023 | <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows" alt="Platform" /> |
 
 ## CONFIGURATION REQUISE :
 
@@ -39,14 +39,7 @@
 | Plateforme | PC, Console Xbox, Surface Hub, HoloLens | PC, Console Xbox, Surface Hub, HoloLens |
 | OS | Windows 10, Windows 11 | Windows 10, Windows 11 |
 | Architecture | X86, X64 | X86, X64 |
-| Clavier intégrée | NaN/NaN | NaN/NaN |
-| Souris | NaN/NaN | NaN/NaN |
-| DirectX | NaN/NaN | NaN/NaN |
-| Mémoire | NaN/NaN | NaN/NaN |
-| Mémoire vidéo | NaN/NaN | NaN/NaN |
-| Interaction tactile | NaN/NaN | NaN/NaN |
-| Processeur | NaN/NaN | NaN/NaN |
-| Processeur graphique | NaN/NaN | NaN/NaN |
+| Autres | Connexion internet (ADSL, XDSL, Wi-Fi) | Connexion internet (Fibre Optique, Wi-Fi) |
 
 ## INFORMATIONS SUPPLÉMENTAIRES
 
@@ -81,3 +74,33 @@ Bien que PWA Composer simplifie le processus de création de PWA, il offre égal
 PWA Composer est développé par SIDL CORPORATION, une société reconnue pour son expertise en développement d'applications web et mobiles. Les utilisateurs peuvent donc avoir confiance en la qualité du produit et bénéficier du soutien de professionnels chevronnés en cas de besoin.
 
 En résumé, PWA Composer est l'outil ultime pour simplifier le processus de création de PWA, permettant aux développeurs de générer rapidement des fichiers manifest.json, des scripts sw.js et de tirer parti des avantages des PWA sans tracas. Avec son interface conviviale et son support professionnel, il offre une solution complète pour créer des PWA de qualité professionnelle.
+
+## LICENCE & AVIS DE NON RESPONSABILITÉ :
+
+À compter de la date du 15 Novembre 2023, la licence MIT (Massachusetts Institute of Technology License) précédemment accordée pour le logiciel intitulé "PWA Composer" est révoquée, et les conditions d'utilisation de ce logiciel sont modifiées.
+
+La licence MIT avait précédemment autorisé une utilisation, une modification et une distribution libres du code source de ce logiciel. Cependant, en raison de nouvelles exigences et restrictions, la licence MIT n'est plus applicable à ce logiciel à partir de cette date.
+
+DÉCLARATION DE LICENCE DÉDIÉE
+
+1. UTILISATION DU LOGICIEL : L'éditeur (ou le titulaire des droits) du logiciel "PWA Composer" accorde une licence non exclusive et non transférable à l'utilisateur final pour utiliser ce logiciel conformément aux termes de cette licence. L'utilisation du logiciel est strictement réservée à un usage personnel ou interne de l'utilisateur final.
+
+2. REPRODUCTION ET DISTRIBUTION : Aucune reproduction, distribution ou redistribution du logiciel n'est autorisée sans le consentement écrit préalable de l'éditeur.
+
+3. MODIFICATION DU CODE SOURCE : Toute modification du code source de ce logiciel est interdite sans l'autorisation expresse de l'éditeur.
+
+4. CONFIDENTIALITÉ DU CODE SOURCE : Aucun code source de ce logiciel ne peut être d'accès public, et le code source doit rester confidentiel et demeurer la propriété de l'éditeur.
+
+5. USAGE COMMERCIAL : Tout usage commercial de ce logiciel nécessite une licence commerciale distincte, qui peut être obtenue auprès de l'éditeur.
+
+6. DROITS D'AUTEUR ET PROPRIÉTÉ INTELLECTUELLE : Tous les droits d'auteur et les droits de propriété intellectuelle relatifs à ce logiciel restent exclusivement la propriété de l'éditeur.
+
+L'UTILISATEUR FINAL RECONNAÎT ET ACCEPTE QUE L'ÉDITEUR NE SERA EN AUCUN CAS RESPONSABLE DES PROBLÈMES OU DES DOMMAGES DÉCOULANT DE L'UTILISATION, DE LA MODIFICATION OU DE LA DISTRIBUTION DE CE LOGICIEL APRÈS LA DATE DE RÉVOCATION DE LA LICENCE MIT.
+
+EN UTILISANT CE LOGICIEL APRÈS LA DATE DE RÉVOCATION, L'UTILISATEUR FINAL ACCEPTE LES NOUVELLES CONDITIONS DE CETTE LICENCE DÉDIÉE ET RECONNAÎT QUE L'UTILISATION DU LOGICIEL EST DÉSORMAIS SOUMISE À CES CONDITIONS.
+
+***
+
+L'ÉDITEUR DÉCLINE TOUTE RESPONSABILITÉ QUANT À L'UTILISATION FAITE DE CE LOGICIEL APRÈS LA DATE DE RÉVOCATION. EN CONSÉQUENCE, L'UTILISATEUR FINAL RECONNAÎT QUE L'UTILISATION DU LOGICIEL EST DÉSORMAIS SOUMISE AUX NOUVELLES CONDITIONS ET RESTRICTIONS ÉNONCÉES CI-DESSUS.
+
+CE CODE ET LES INFORMATIONS SONT FOURNIS « EN L'ÉTAT » SANS GARANTIE D'AUCUNE SORTE, EXPRESSE OU IMPLICITE, Y COMPRIS, MAIS SANS S'Y LIMITER, LES GARANTIES IMPLICITES DE QUALITÉ MARCHANDE ET/OU D'ADÉQUATION À UN USAGE PARTICULIER. L'ÉDITEUR NE SERA PAS RESPONSABLE DES PROBLÈMES LIÉS À LA MODIFICATION DU LOGICIEL APRÈS LA DATE DE RÉVOCATION.
