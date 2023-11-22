@@ -1,0 +1,28 @@
+License PWA Composer
+Update : 2023/11/22
+
+DEDICATED LICENSE STATEMENT
+
+1. USE OF THE SOFTWARE: The publisher (or rights holder) of the “PWA Composer” software grants a non-exclusive and non-transferable license to the end user to use this software in accordance with the terms of this license. Use of the software is strictly reserved for personal or internal use of the end user.
+
+2. REPRODUCTION AND DISTRIBUTION: No reproduction, distribution or redistribution of the software is authorized without the prior written consent of the publisher.
+
+3. MODIFICATION OF THE SOURCE CODE: Any modification of the source code of this software is prohibited without the express authorization of the publisher.
+
+4. SOURCE CODE CONFIDENTIALITY: No source code of this software may be publicly accessible, and the source code must remain confidential and remain the property of the publisher.
+
+5. COMMERCIAL USE: Any commercial use of this software requires a separate commercial license, which can be obtained from the publisher.
+
+6. COPYRIGHT AND INTELLECTUAL PROPERTY: All copyright and intellectual property rights relating to this software remain the exclusive property of the publisher.
+
+THE END USER ACKNOWLEDGES AND AGREES THAT THE PUBLISHER SHALL IN NO EVENT BE LIABLE FOR ANY PROBLEMS OR DAMAGES ARISING FROM THE USE, MODIFICATION OR DISTRIBUTION OF THIS SOFTWARE AFTER THE DATE OF REVOCATION OF THE MIT LICENSE.
+
+BY USING THIS SOFTWARE AFTER THE REVOCATION DATE, THE END USER AGREES TO THE NEW TERMS OF THIS DEDICATED LICENSE AND ACKNOWLEDGES THAT USE OF THE SOFTWARE IS NOW SUBJECT TO THESE TERMS.
+
+--------------------------------------
+
+Laste Revocation of the MIT license and introduction of a new license
+
+Effective November 15, 2023, the MIT license (Massachusetts Institute of Technology License) previously granted for the software entitled "PWA Composer" is revoked, and the terms of use of this software are modified.
+
+The MIT License previously permitted free use, modification, and distribution of the source code for this software. However, due to new requirements and restrictions, the MIT License is no longer applicable to this software as of this date.
