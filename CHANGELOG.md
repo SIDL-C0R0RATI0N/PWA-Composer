@@ -1,5 +1,21 @@
 # Journale des dernières mises à jour de l'application
 
+## Version [2.15120.2023] | 15 Décembre 2023
+### Mise à jour cumulative mensuel
+
+### LES NOUVEAUTÉS :
+- [#2 ] Ajouts d'une nouvelle fonctionnalité Open Graph,
+- [#6 ] Ajouts des liens de configuration Open Graph.
+
+### LES MISES À JOURS :
+- [#5] Mise à jour de le licence de l'application,
+- [#7] Mise à jour du serveur de recherche des mises à jours,
+
+### LES CORRECTIONS :
+- Correction de 3 problèmes dans l'application.
+
+***
+
 ## Version [2.15111.2023] | 15 Novembre 2023
 ### Mise à jour majeur.
 
