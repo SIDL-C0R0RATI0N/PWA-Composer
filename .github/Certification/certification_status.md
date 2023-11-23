@@ -92,8 +92,8 @@ Résultat global : **RÉUSSITE**
 ***
 ## Validation des métadonnées Windows Runtime
 
-- ### RÉUSSITE
-Attribut ExclusiveTo
+### RÉUSSITE
+- Attribut ExclusiveTo
 
 ### RÉUSSITE
 - Emplacement du type
