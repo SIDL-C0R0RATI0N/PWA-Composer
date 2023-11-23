@@ -30,7 +30,7 @@
 
 | STATUS DE DÉVELOPPEMENT | VERSION | DATE DE MISE À JOUR | COMPATIBILITÉ (OS) |
 | :-: | :-: | :-: | :-: |
-| 🔵 EN COURS DE DEVELOPPEMENT | 2.15120.2023.0 | 15/12/2023 | <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows" alt="Platform" /> |
+| 🟡 EN ATTENTE DE PUBLICATION | 2.15120.2023.0 | 15/12/2023 | <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows" alt="Platform" /> |
 
 > 🟢 = DISPONIBLE | 🟡 = EN ATTENTE DE PUBLICATION | 🟠 = EN ATTENTE DE DEVELOPPEMENT | 🔴 = INDISPONIBLE | 🟤 = NON VALIDER | 🔵 = EN COURS DE DEVELOPPEMENT | ⚪ = OBSOLETE
 
@@ -79,28 +79,7 @@ En résumé, PWA Composer est l'outil ultime pour simplifier le processus de cr�
 
 ## LICENCE & AVIS DE NON RESPONSABILITÉ :
 
-À compter de la date du 15 Novembre 2023, la licence MIT (Massachusetts Institute of Technology License) précédemment accordée pour le logiciel intitulé "PWA Composer" est révoquée, et les conditions d'utilisation de ce logiciel sont modifiées.
-
-La licence MIT avait précédemment autorisé une utilisation, une modification et une distribution libres du code source de ce logiciel. Cependant, en raison de nouvelles exigences et restrictions, la licence MIT n'est plus applicable à ce logiciel à partir de cette date.
-
-DÉCLARATION DE LICENCE DÉDIÉE
-
-1. UTILISATION DU LOGICIEL : L'éditeur (ou le titulaire des droits) du logiciel "PWA Composer" accorde une licence non exclusive et non transférable à l'utilisateur final pour utiliser ce logiciel conformément aux termes de cette licence. L'utilisation du logiciel est strictement réservée à un usage personnel ou interne de l'utilisateur final.
-
-2. REPRODUCTION ET DISTRIBUTION : Aucune reproduction, distribution ou redistribution du logiciel n'est autorisée sans le consentement écrit préalable de l'éditeur.
-
-3. MODIFICATION DU CODE SOURCE : Toute modification du code source de ce logiciel est interdite sans l'autorisation expresse de l'éditeur.
-
-4. CONFIDENTIALITÉ DU CODE SOURCE : Aucun code source de ce logiciel ne peut être d'accès public, et le code source doit rester confidentiel et demeurer la propriété de l'éditeur.
-
-5. USAGE COMMERCIAL : Tout usage commercial de ce logiciel nécessite une licence commerciale distincte, qui peut être obtenue auprès de l'éditeur.
-
-6. DROITS D'AUTEUR ET PROPRIÉTÉ INTELLECTUELLE : Tous les droits d'auteur et les droits de propriété intellectuelle relatifs à ce logiciel restent exclusivement la propriété de l'éditeur.
-
-L'UTILISATEUR FINAL RECONNAÎT ET ACCEPTE QUE L'ÉDITEUR NE SERA EN AUCUN CAS RESPONSABLE DES PROBLÈMES OU DES DOMMAGES DÉCOULANT DE L'UTILISATION, DE LA MODIFICATION OU DE LA DISTRIBUTION DE CE LOGICIEL APRÈS LA DATE DE RÉVOCATION DE LA LICENCE MIT.
-
-EN UTILISANT CE LOGICIEL APRÈS LA DATE DE RÉVOCATION, L'UTILISATEUR FINAL ACCEPTE LES NOUVELLES CONDITIONS DE CETTE LICENCE DÉDIÉE ET RECONNAÎT QUE L'UTILISATION DU LOGICIEL EST DÉSORMAIS SOUMISE À CES CONDITIONS.
-
+Pour lire la licence <a href="https://github.com/SIDL-C0R0RATI0N/PWA-Composer/blob/main/LICENSE">cliquez ici</a>.
 ***
 
 L'ÉDITEUR DÉCLINE TOUTE RESPONSABILITÉ QUANT À L'UTILISATION FAITE DE CE LOGICIEL APRÈS LA DATE DE RÉVOCATION. EN CONSÉQUENCE, L'UTILISATEUR FINAL RECONNAÎT QUE L'UTILISATION DU LOGICIEL EST DÉSORMAIS SOUMISE AUX NOUVELLES CONDITIONS ET RESTRICTIONS ÉNONCÉES CI-DESSUS.
