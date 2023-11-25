@@ -1,4 +1,4 @@
-Mise à jour vers la version 2.15120.2023
+Mise à jour vers la version 2.15120.2023 
 LES NOUVEAUTÉS :
 · Ajouts d'une nouvelle fonctionnalité Open Graph,
 · Ajouts des liens de configuration Open Graph.
