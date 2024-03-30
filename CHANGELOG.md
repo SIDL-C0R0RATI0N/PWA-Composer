@@ -1,5 +1,20 @@
 # Journale des dernières mises à jour de l'application
 
+## Version [3.25030.2024] | 25 Mars 2024
+### Mise à jour cumulative mensuel
+
+### LES NOUVEAUTÉS :
+- Aucune nouveautés disponible.
+
+### LES MISES À JOURS :
+- Mise à jour de l'API Server de mise à jour de l'application,
+- Mise à jour de sécurité de l'application suite à un manquement de mise à jours.
+
+### LES CORRECTIONS :
+- Correction de 3 problèmes dans l'application.
+
+***
+
 ## Version [2.15120.2023] | 15 Décembre 2023
 ### Mise à jour cumulative mensuel
 
