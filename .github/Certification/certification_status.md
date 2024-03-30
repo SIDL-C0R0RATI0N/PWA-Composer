@@ -2,12 +2,12 @@
 
 - Nom de l'application : **PWA Composer**
 - Éditeur de l'application : **SIDL CORPORATION**
-- Version de l'application : **2.15120.2023.0**
+- Version de l'application : **3.25030.2024.0**
 - Architecture des applications : **x64**
 - Version du kit : **10.0.22621.2428**
 - Version du système d'exploitation : **Microsoft Windows 11 Professionnel (10.0.22631.0)**
 - Architecture du système d’exploitation : **x64**
-- Heure du rapport : **23/11/2023 18:08:40**
+- Heure du rapport : **30/03/2024 18:28:07**
 
 Résultat global : **RÉUSSITE**
 
