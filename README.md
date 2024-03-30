@@ -24,8 +24,7 @@
 
 | ETATS DE PUBLICATION | PUBLIÉ LE | MISE À JOUR LE | VERSION | CHANGELOG | CERTIFICATION |
 | -------------------- | --------- | -------------- | ------- | --------- | ------------- |
-| 🟢 DISPONIBLE | 28/06/2023 | 15/12/2023 | 2.15120.2023 | <a href="https://github.com/SIDL-C0R0RATI0N/PWA-Composer/blob/main/CHANGELOG.md#version-2151202023--15-d%C3%A9cembre-2023" target="_self">EN SAVOIR PLUS</a> | NaN  |
-| 🟡 = EN ATTENTE DE PUBLICATION | 28/06/2023 | <nan> | 3.25030.2024 | <a href="https://github.com/SIDL-C0R0RATI0N/PWA-Composer/blob/main/CHANGELOG.md#version-3250302024--25-mars-2024" target="_self">EN SAVOIR PLUS</a> | <a href="https://github.com/SIDL-C0R0RATI0N/PWA-Composer/blob/main/.github/Certification/certification_status.md" target="_blank">RÉSULTATS DE CERTIFICATION</a>  |
+| 🟢 DISPONIBLE | 28/06/2023 | 30/03/2024 | 3.25030.2024 | <a href="https://github.com/SIDL-C0R0RATI0N/PWA-Composer/blob/main/CHANGELOG.md#version-3250302024--25-mars-2024" target="_self">EN SAVOIR PLUS</a> | <a href="https://github.com/SIDL-C0R0RATI0N/PWA-Composer/blob/main/.github/Certification/certification_status.md" target="_blank">RÉSULTATS DE CERTIFICATION</a>  |
 
 > :warning: <span style="color:orange;">**Attention**</span> :
 La version `2.15110.2023` seras obsolète à partir du 11 Décembre 2023.
@@ -53,7 +52,7 @@ La version `2.15110.2023` seras obsolète à partir du 11 Décembre 2023.
 |:-:|:-:|
 | Publié par | <a target="_blank" href="https://apps.microsoft.com/store/search?publisher=SIDL%20CORPORATION">SIDL CORPORATION</a> |
 | Date de sortie | 28/06/2023 |
-| Mise à jour | 15/12/2023 |
+| Mise à jour | 30/03/2024 |
 | Langues prises en charge | Anglais, Français |
 | Version | 3.25030.2024.0 |
 
