@@ -1,11 +1,10 @@
-Mise à jour vers la version 2.15120.2023 
+Mise à jour vers la version 3.25030.2024 
 LES NOUVEAUTÉS :
-· Ajouts d'une nouvelle fonctionnalité Open Graph,
-· Ajouts des liens de configuration Open Graph.
+· Préparation d'une nouvelle fonctionnalités de l'application.
 LES MISES À JOURS :
-· Mise à jour de le licence de l'application,
-· Mise à jour du serveur de recherche des mises à jours.
+· Mise à jour de l'API Server de l'application,
+· Mise à jour de sécurité de l'application.
 LES CORRECTIONS :
-· Correction de 3 problèmes dans l'application.
+· Correction de plus de 3 problèmes dans le code de l'application.
 LES SUPPRESSIONS :
-· Aucune.
+· Aucune suppression.
