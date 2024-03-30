@@ -55,7 +55,7 @@ La version `2.15110.2023` seras obsolète à partir du 11 Décembre 2023.
 | Date de sortie | 28/06/2023 |
 | Mise à jour | 15/12/2023 |
 | Langues prises en charge | Anglais, Français |
-| Version | 2.15120.2023.0 |
+| Version | 3.25030.2024.0 |
 
 ## DESCRIPTION :
 
