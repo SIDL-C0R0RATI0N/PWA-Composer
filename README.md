@@ -25,6 +25,7 @@
 | ETATS DE PUBLICATION | PUBLIÉ LE | MISE À JOUR LE | VERSION | CHANGELOG | CERTIFICATION |
 | -------------------- | --------- | -------------- | ------- | --------- | ------------- |
 | 🟢 DISPONIBLE | 28/06/2023 | 15/12/2023 | 2.15120.2023 | <a href="https://github.com/SIDL-C0R0RATI0N/PWA-Composer/blob/main/CHANGELOG.md#version-2151202023--15-d%C3%A9cembre-2023" target="_self">EN SAVOIR PLUS</a> | <a href="https://github.com/SIDL-C0R0RATI0N/PWA-Composer/blob/main/.github/Certification/certification_status.md" target="_blank">RÉSULTATS DE CERTIFICATION</a>  |
+| 🟡 = EN ATTENTE DE PUBLICATION | 28/06/2023 | <nan> | 3.25030.2024 | <a href="https://github.com/SIDL-C0R0RATI0N/PWA-Composer/blob/main/CHANGELOG.md#version-3250302024--25-mars-2024" target="_self">EN SAVOIR PLUS</a> | <a href="https://github.com/SIDL-C0R0RATI0N/PWA-Composer/blob/main/.github/Certification/certification_status.md" target="_blank">RÉSULTATS DE CERTIFICATION</a>  |
 
 > :warning: <span style="color:orange;">**Attention**</span> :
 La version `2.15110.2023` seras obsolète à partir du 11 Décembre 2023.
@@ -33,7 +34,7 @@ La version `2.15110.2023` seras obsolète à partir du 11 Décembre 2023.
 
 | STATUS DE DÉVELOPPEMENT | VERSION | DATE DE MISE À JOUR | COMPATIBILITÉ (OS) |
 | ----------------------- | ------- | ------------------- | ------------------ |
-| 🟠 EN ATTENTE DE DEVELOPPEMENT | 3.25030.2024.0 | 25/03/2024 | <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows" alt="Platform" /> |
+| 🟠 EN ATTENTE DE DEVELOPPEMENT | 3.25070.2024.0 | 25/07/2024 | <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows" alt="Platform" /> |
 
 > 🟢 = DISPONIBLE | 🟡 = EN ATTENTE DE PUBLICATION | 🟠 = EN ATTENTE DE DEVELOPPEMENT | 🔴 = INDISPONIBLE | 🟤 = NON VALIDER | 🔵 = EN COURS DE DEVELOPPEMENT | ⚪ = OBSOLETE
 
