@@ -7,14 +7,16 @@
   PWA Composer
 </h1>
 <p align="center">
+  <a href="https://apps.microsoft.com/detail/PWA%20Composer/9pkjr8hz2rqh?launch=true&mode=mini">
+	  <img src="https://get.microsoft.com/images/fr-fr%20dark.svg" width="200"/>
+  </a>
+</p>
+<p align="center">
   <a style="text-decoration:none" href="https://github.com/SIDL-C0R0RATI0N/PWA-Composer">
-    <img src="https://img.shields.io/github/package-json/v/SIDL-C0R0RATI0N/PWA-Composer?label=VERSION&style=for-the-badge" alt="Releases" />
+    <img src="https://img.shields.io/github/package-json/v/SIDL-C0R0RATI0N/PWA-Composer?label=VERSION&style=flat" alt="Releases" />
   </a>
   <a style="text-decoration:none" href="https://github.com/SIDL-C0R0RATI0N/SociaLinkN/releases">
-    <img src="https://img.shields.io/github/v/release/SIDL-C0R0RATI0N/PWA-Composer?include_prereleases&sort=date&style=for-the-badge" alt="Releases" />
-  </a>
-  <a style="text-decoration:none" href="https://www.microsoft.com/store/apps/9PKJR8HZ2RQH">
-    <img src="https://img.shields.io/badge/Microsoft%20Store-blue?style=for-the-badge&logo=microsoft" alt="Microsoft Store" />
+    <img src="https://img.shields.io/github/v/release/SIDL-C0R0RATI0N/PWA-Composer?include_prereleases&sort=date&style=flat" alt="Releases" />
   </a>
 </p>
 
