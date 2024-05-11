@@ -13,7 +13,7 @@
 </p>
 <p align="center">
   <a style="text-decoration:none" href="https://github.com/SIDL-C0R0RATI0N/PWA-Composer">
-    <img src="https://img.shields.io/github/package-json/v/SIDL-C0R0RATI0N/PWA-Composer?label=VERSION&style=flat" alt="Releases" />
+    <img src="https://img.shields.io/github/package-json/v/SIDL-C0R0RATI0N/PWA-Composer?label=Version&style=flat" alt="Version" />
   </a>
   <a style="text-decoration:none" href="https://github.com/SIDL-C0R0RATI0N/SociaLinkN/releases">
     <img src="https://img.shields.io/github/v/release/SIDL-C0R0RATI0N/PWA-Composer?include_prereleases&sort=date&style=flat" alt="Releases" />
