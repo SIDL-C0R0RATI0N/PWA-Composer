@@ -1,0 +1,28 @@
+Licence PWA Composer
+Mise à jour : 2023/11/22
+
+DÉCLARATION DE LICENCE DÉDIÉE
+
+1. UTILISATION DU LOGICIEL : L'éditeur (ou titulaire des droits) du logiciel « PWA Composer » accorde une licence non exclusive et non transférable à l'utilisateur final pour utiliser ce logiciel conformément aux termes de cette licence. L'utilisation du logiciel est strictement réservée à l'usage personnel ou interne de l'utilisateur final.
+
+2. REPRODUCTION ET DISTRIBUTION : Aucune reproduction, distribution ou redistribution du logiciel n'est autorisée sans l'accord écrit préalable de l'éditeur.
+
+3. MODIFICATION DU CODE SOURCE : Toute modification du code source de ce logiciel est interdite sans l'autorisation expresse de l'éditeur.
+
+4. CONFIDENTIALITÉ DU CODE SOURCE : Aucun code source de ce logiciel ne peut être accessible au public, et le code source doit rester confidentiel et demeurer la propriété de l'éditeur.
+
+5. UTILISATION COMMERCIALE : Toute utilisation commerciale de ce logiciel nécessite une licence commerciale distincte, qui peut être obtenue auprès de l'éditeur.
+
+6. COPYRIGHT ET PROPRIÉTÉ INTELLECTUELLE : Tous les droits d'auteur et de propriété intellectuelle relatifs à ce logiciel restent la propriété exclusive de l'éditeur.
+
+L'UTILISATEUR FINAL RECONNAÎT ET ACCEPTE QUE L'ÉDITEUR NE POURRA EN AUCUN CAS ÊTRE RESPONSABLE DES PROBLÈMES OU DOMMAGES DÉCOULANT DE L'UTILISATION, DE LA MODIFICATION OU DE LA DISTRIBUTION DE CE LOGICIEL APRÈS LA DATE DE RÉVOCATION DE LA LICENCE MIT.
+
+EN UTILISANT CE LOGICIEL APRÈS LA DATE DE RÉVOCATION, L'UTILISATEUR FINAL ACCEPTE LES NOUVELLES CONDITIONS DE CETTE LICENCE DÉDIÉE ET RECONNAÎT QUE L'UTILISATION DU LOGICIEL EST MAINTENANT SOUMISE À CES CONDITIONS.
+
+--------------------------------------
+
+Dernière Révocation de la licence MIT et introduction d'une nouvelle licence
+
+A compter du 15 novembre 2023, la licence MIT (Massachusetts Institute of Technology License) précédemment accordée pour le logiciel intitulé « PWA Composer » est révoquée, et les conditions d'utilisation de ce logiciel sont modifiées.
+
+La licence MIT autorisait auparavant l'utilisation, la modification et la distribution gratuites du code source de ce logiciel. Cependant, en raison de nouvelles exigences et restrictions, la licence MIT n'est plus applicable à ce logiciel à compter de cette date.
