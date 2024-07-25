@@ -35,7 +35,7 @@ La version `2.15110.2023` seras obsolète à partir du 11 Décembre 2023.
 
 | STATUS DE DÉVELOPPEMENT | VERSION | DATE DE MISE À JOUR | COMPATIBILITÉ (OS) |
 | ----------------------- | ------- | ------------------- | ------------------ |
-| 🟠 EN ATTENTE DE DEVELOPPEMENT | 3.25070.2024.0 | 25/07/2024 | <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows" alt="Platform" /> |
+| 🔵 = EN COURS DE DEVELOPPEMENT | 3.25080.2024.0 | 25/08/2024 | <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows" alt="Platform" /> |
 
 > 🟢 = DISPONIBLE | 🟡 = EN ATTENTE DE PUBLICATION | 🟠 = EN ATTENTE DE DEVELOPPEMENT | 🔴 = INDISPONIBLE | 🟤 = NON VALIDER | 🔵 = EN COURS DE DEVELOPPEMENT | ⚪ = OBSOLETE
 
