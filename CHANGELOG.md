@@ -1,5 +1,21 @@
 # Journale des dernières mises à jour de l'application
 
+## Version `3.25080.2024` | 25 Août 2024
+### Mise à jour cumulative mensuel
+
+### LES NOUVEAUTÉS :
+- Ajouts de la possiblité de changer de langue.
+
+### LES MISES À JOURS :
+- #9 : Mise à jour de sécurité de l'application.
+- #12 : Mise à jour des liens de redirection dans l'application.
+- #13 : Mise à jour de l'API de l'application.
+
+### LES CORRECTIONS :
+- #10 : Correction d'un problème lié au thème sombre / claire de l'application.
+
+***
+
 ## Version [3.25030.2024] | 25 Mars 2024
 ### Mise à jour cumulative mensuel
 
