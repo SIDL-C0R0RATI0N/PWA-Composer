@@ -26,7 +26,7 @@
 
 | ETATS DE PUBLICATION | PUBLIÉ LE | MISE À JOUR LE | VERSION | CHANGELOG |
 | -------------------- | --------- | -------------- | ------- | --------- |
-| 🟢 DISPONIBLE | 28/06/2023 | 25/08/2024 | 3.25080.2024 | <a href="https://github.com/SIDL-C0R0RATI0N/PWA-Composer/blob/main/CHANGELOG.md#version-3250802024--25-aout-2024" target="_self">EN SAVOIR PLUS</a> |
+| 🟢 DISPONIBLE | 28/06/2023 | 25/08/2024 | 3.25080.2024 | <a href="https://github.com/SIDL-C0R0RATI0N/PWA-Composer/blob/main/CHANGELOG.md#version-3250802024--25-ao%C3%BBt-2024" target="_self">EN SAVOIR PLUS</a> |
 
 > :warning: <span style="color:orange;">**Attention**</span> :
 La version `2.15110.2023` seras obsolète à partir du 11 Décembre 2023.
