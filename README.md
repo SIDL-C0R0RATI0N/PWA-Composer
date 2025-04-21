@@ -27,7 +27,7 @@
 
 | État de publication | Publié le | Mise à jour le | Version | Changelog |
 | ------------------- | ---------- | -------------- | ------- | --------- |
-| 🟢 DISPONIBLE       | 28/06/2023 | 25/08/2024     | 3.25080.2024 | [EN SAVOIR PLUS](https://github.com/SIDL-C0R0RATI0N/PWA-Composer/blob/main/CHANGELOG.md#version-3250802024--25-août-2024) |
+| 🟢 DISPONIBLE       | 28/06/2023 | 25/05/2025     | 4.25050.2025 | [EN SAVOIR PLUS](https://github.com/SIDL-C0R0RATI0N/PWA-Composer/blob/main/CHANGELOG.md#version-4250502025--25-mai-2025) |
 
 > :warning: **Attention** : La version `2.15110.2023` sera obsolète à partir du 11 décembre 2023.
 
@@ -35,7 +35,7 @@
 
 | Statut de développement | Version          | Date de mise à jour | Compatibilité (OS)                           |
 | ----------------------- | ---------------- | ------------------- | ------------------------------------------- |
-| 🟠 En attente de développement | 3.25120.2024.0 | 25/12/2024        | <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows" alt="Platforme Windows" /> |
+| 🟠 En attente de développement | 4.25110.2025.0 | 25/11/2025        | <img src="https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows" alt="Platforme Windows" /> |
 
 > 🟢 = DISPONIBLE | 🟡 = EN ATTENTE DE PUBLICATION | 🟠 = EN ATTENTE DE DEVELOPPEMENT | 🔴 = INDISPONIBLE | 🟤 = NON VALIDÉ | 🔵 = EN COURS DE DEVELOPPEMENT | ⚪ = OBSOLÈTE
 
@@ -55,9 +55,9 @@
 | Développé par | [SIDL CORPORATION](https://sidl-corporation.fr/)      |
 | Publié par    | [SIDL CORPORATION sur Microsoft Store](https://apps.microsoft.com/store/search?publisher=SIDL%20CORPORATION) |
 | Date de sortie| 28/06/2023                                            |
-| Mise à jour   | 25/08/2024                                            |
+| Mise à jour   | 25/05/2025                                            |
 | Langues       | Anglais, Français                                     |
-| Version       | 3.25080.2024.0                                        |
+| Version       | 4.25050.2025.0                                        |
 
 ## DESCRIPTION :
 
