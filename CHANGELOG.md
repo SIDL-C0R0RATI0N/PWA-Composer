@@ -1,5 +1,24 @@
 # Journale des dernières mises à jour de l'application
 
+## Version `4.25050.2025` | 25 Mai 2025
+### Mise à jour majeur
+
+### LES NOUVEAUTÉS :
+- Ajouts de la possiblité de changer de langue.
+
+### LES MISES À JOURS :
+- Mise à jour du système d'API Serveur vers la nouvelle version (v5).
+- Mise à jour du système de recherche de mise à jour.
+- Mise à jour des frameworks de l'application.
+- Mise à jour des langues.
+- Mise à jour de la licence de l'application vers la nouvelle version.
+- Mise à jour du système de mise à jour de l'application.
+
+### LES CORRECTIONS :
+- Corrections de plusieurs bugs.
+
+***
+
 ## Version `3.25080.2024` | 25 Août 2024
 ### Mise à jour cumulative mensuel
 
